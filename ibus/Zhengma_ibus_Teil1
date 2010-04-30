@@ -1,0 +1,64 @@
+SCIM_Generic_Table_Phrase_Library_TEXT
+VERSION_1_0
+
+### Begin Table definition.
+BEGIN_DEFINITION
+
+### An unique id to distinguish this table among others.
+### Use uuidgen to generate this kind of id.
+UUID = 902a8fe4-5112-4b84-83c8-3b9e12a93d14
+
+### A unique number indicates the version of this file.
+### For example the last modified date of this file.
+### This number must be less than 2^32.
+SERIAL_NUMBER = 20090218
+
+### The default name of this table
+NAME = ZhengMa
+
+### Description
+DESCRIPTION = 郑码
+
+### The local names of this table 
+NAME.zh_CN = 郑码
+NAME.zh_HK = 鄭碼
+NAME.zh_TW = 鄭碼
+
+LANGUAGES = zh_CN,zh_HK,zh_TW
+
+# AUTHOR = 
+
+### License
+LICENSE = GPL-3
+
+### Prompt string to be displayed in the status area.
+STATUS_PROMPT = CN
+
+### Valid input chars.
+VALID_INPUT_CHARS = abcdefghijklmnopqrstuvwxyz
+
+MAX_KEY_LENGTH = 5
+
+### Keyboard Layout
+LAYOUT = us
+
+### Use full width punctuation by default
+DEF_FULL_WIDTH_PUNCT = TRUE
+### Use full width letter by default
+DEF_FULL_WIDTH_LETTER = FALSE
+
+### Whether user are allow to define phrase, default is true
+USER_CAN_DEFINE_PHRASE = TRUE
+
+### Whether support PinYin Mode, default is true
+PINYIN_MODE = TRUE
+
+DYNAMIC_ADJUST = TRUE 
+
+### rules for constructing user defined phrase
+RULES = ce2:p11+p12+p21+p22;ce3:p11+p21+p22+p31+p32;ce4:p11+p21+p31+p41+p42;ca5:p11+p21+p31+p41+p51
+
+END_DEFINITION
+
+### Begin Table data.
+BEGIN_TABLE
