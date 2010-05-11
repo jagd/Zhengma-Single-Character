@@ -82859,9 +82859,9 @@ zxxf	縔	1
 zxxi	紓	1
 zxxi	纾	1
 zxxs	𥾤	1
+zxxx	缀	1
 zxxx	綴	1
 zxxx	縀	1
-zxxx	缀	1
 zxxx	𦀁	1
 zxyj	𦀯	1
 zxzz	𦁐	1
