@@ -15,7 +15,7 @@ UUID = fb398679-2604-47ea-8f1a-c175358389c9
 ### This number must be less than 2^32.
 SERIAL_NUMBER = 1
 
-# ICON = @SCIM_ICONDIR@/郑码.png
+### ICON = @SCIM_ICONDIR@/郑码.png
 
 ### The default name of this table
 NAME = Zhengma
@@ -36,7 +36,9 @@ STATUS_PROMPT = 郑
 
 ### The Keyboard Layout used by this table. Unset or set to "Unknown" to accept any kind of layouts.
 
-KEYBOARD_LAYOUT = US_Default
+### KEYBOARD_LAYOUT = US_Default
+### 为兼顾德语键盘布局:
+KEYBOARD_LAYOUT = Unknown
 
 ### If true then the first candidate phrase
 ### will be selected automatically during inputing.
