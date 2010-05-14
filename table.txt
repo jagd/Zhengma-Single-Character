@@ -9142,8 +9142,8 @@ skx	变	1
 sky	弯	1
 skz	謱	1
 skz	𧫖	1
-slb	調	1
 slb	调	1
+slb	調	1
 slb	𧦦	1
 slc	詛	1
 slc	诅	1
