@@ -82158,8 +82158,8 @@ zpel	䋸	1
 zpez	䌊	1
 zpgo	𦄼	1
 zpgq	𦄘	1
-zpgx	緩	1
 zpgx	缓	1
+zpgx	緩	1
 zpih	𦃇	1
 zpkb	𦇮	1
 zpkd	𦄈	1
