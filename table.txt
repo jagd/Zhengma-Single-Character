@@ -2997,9 +2997,9 @@ fla	轘	1
 flb	柟	1
 flc	柤	1
 flc	査	1
+fld	桐	1
 fld	㭎	1
 fld	朿	1
-fld	桐	1
 fld	棡	1
 fld	棢	1
 fld		1
