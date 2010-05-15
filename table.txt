@@ -7487,8 +7487,8 @@ pki	钿	1
 pkk	錔	1
 pkk	錩	1
 pkk	锠	1
-pkl	鎖	1
 pkl	锁	1
+pkl	鎖	1
 pkl	𨩩	1
 pkm	鈔	1
 pkm	钞	1
