@@ -9282,9 +9282,9 @@ soz	離	1
 soz	𥾻	1
 spa	詬	1
 spa	诟	1
-spd	䚲	1
 spd	䜣	1
 spd	訢	1
+spd	䚲	1
 spd		1
 spi	謕	1
 spk	譒	1
