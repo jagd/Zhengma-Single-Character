@@ -27828,8 +27828,8 @@ fkuz	𨍦	1
 fkve	𨎦	1
 fkvr	𨋫	1
 fkvr	𪳲	1
-fkvv	東	1
 fkvv	杳	1
+fkvv	東	1
 fkvv	𣏬	1
 fkwf	䡣	1
 fkwf	轋	1
