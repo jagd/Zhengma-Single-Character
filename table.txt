@@ -9384,8 +9384,8 @@ str	諮	1
 str	谘	1
 stu	譧	1
 sub	詊	1
-suc	詳	1
 suc	详	1
+suc	詳	1
 sue	竎	1
 sue	誁	1
 suf	亲	1
