@@ -17012,8 +17012,8 @@ cekz	𦖧	1
 cekz	𦗆	1
 cela	聹	1
 cela	𦗰	1
-celb	耼	1
 celb	聃	1
+celb	耼	1
 celb	𦕘	1
 celd	𦕋	1
 celd	𦖉	1
