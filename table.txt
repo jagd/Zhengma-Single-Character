@@ -39981,8 +39981,8 @@ komj	𡮯	1
 komk	𠚺	1
 komk	𠟥	1
 komk	𡭝	1
-koml	幤	1
 koml	省	1
+koml	幤	1
 koml	𡭸	1
 komm	毟	1
 komm	氅	1
