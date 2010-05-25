@@ -1590,8 +1590,8 @@ dgk	掩	1
 dgl	㧫	1
 dgm	拢	1
 dgo	挾	1
-dgr	扤	1
 dgr	扰	1
+dgr	扤	1
 dgs	㧋	1
 dgs	㧻	1
 dgs	𢪯	1
