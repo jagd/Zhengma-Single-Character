@@ -37217,8 +37217,8 @@ jjjb	𡓶	1
 jjjb	𡓿	1
 jjjc	𡄃	1
 jjje	𠵀	1
-jjjf	喿	1
 jjjf	噪	1
+jjjf	喿	1
 jjjg	碞	1
 jjjh	𡃣	1
 jjji	𠁷	1
