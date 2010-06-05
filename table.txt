@@ -61055,8 +61055,8 @@ ryrl	𠣢	1
 ryrl	𢑼	1
 ryrq	㔨	1
 ryrq	𠣿	1
-ryrr	匂	1
 ryrr	够	1
+ryrr	匂	1
 ryrr	𠣟	1
 ryrr	𠣨	1
 ryrs	匇	1
