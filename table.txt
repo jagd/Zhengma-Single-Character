@@ -12523,8 +12523,8 @@ zsk	織	1
 zsk	𦂺	1
 zsl	矕	1
 zsm	變	1
-zso	紋	1
 zso	纹	1
+zso	紋	1
 zsp	鑾	1
 zsq	䏍	1
 zsq	𦣏	1
@@ -55839,8 +55839,8 @@ ptva	鍍	1
 ptwr	𨯙	1
 ptxj	鎕	1
 ptxk	鏮	1
-ptxl	鏞	1
 ptxl	镛	1
+ptxl	鏞	1
 ptxl	𨪞	1
 ptzs	鉱	1
 pubi	鎈	1
