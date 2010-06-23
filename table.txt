@@ -63926,9 +63926,9 @@ symk	𪟔	1
 syml	斾	1
 syml	𢄧	1
 syml	𣄘	1
-symm	旄	1
-symm	旌	1
 symm	族	1
+symm	旌	1
+symm	旄	1
 symm	𢳈	1
 symm	𣄓	1
 symn	𩀥	1
