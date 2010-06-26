@@ -27155,8 +27155,8 @@ fjrc	𫍖	1
 fjrd	柷	1
 fjrd	𣡫	1
 fjrj	㯝	1
-fjrl	賴	1
 fjrl	赖	1
+fjrl	賴	1
 fjrl	𧷕	1
 fjro	欶	1
 fjro	覅	1
@@ -53369,10 +53369,10 @@ oxai	𩚫	1
 oxai	𩝊	1
 oxai	𩝚	1
 oxai	𩝡	1
-oxaj	飼	1
-oxaj	餄	1
 oxaj	饲	1
 oxaj	饸	1
+oxaj	飼	1
+oxaj	餄	1
 oxaj	飼	1
 oxaj	𩝈	1
 oxaj	𩞰	1
