@@ -15624,8 +15624,8 @@ booo	𧻵	1
 booo	𧼛	1
 booo	𧾏	1
 booo	𫏺	1
-boop	䟃	1
 boop	趁	1
+boop	䟃	1
 boor	䞭	1
 boor	堫	1
 boor	𡒇	1
