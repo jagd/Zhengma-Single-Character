@@ -15634,8 +15634,8 @@ boor	𡖘	1
 boor	𧼔	1
 boor	𧼜	1
 boor	𧼬	1
-boos	䟋	1
 boos	赵	1
+boos	䟋	1
 boos	𧺺	1
 boou	𧾋	1
 boou	𧾴	1
