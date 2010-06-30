@@ -39902,8 +39902,8 @@ kojm	掌	1
 kojm	韑	1
 kojn	𠒦	1
 kojo	𡭭	1
-kojr	㕾	1
 kojr	党	1
+kojr	㕾	1
 kojr	𠤠	1
 kojs	𧨲	1
 kojw	𡭿	1
