@@ -77680,8 +77680,8 @@ xslr	鹬	1
 xslr	鷸	1
 xslr	𧠈	1
 xslt	𠮔	1
-xslw	恿	1
 xslw	通	1
+xslw	恿	1
 xslw	遹	1
 xsly	勇	1
 xsly	勈	1
@@ -77847,8 +77847,8 @@ xsxf	桑	1
 xsxg	䫎	1
 xsxg	𤼫	1
 xsxg	𧱝	1
-xsxi	㐨	1
 xsxi	予	1
+xsxi	㐨	1
 xsxi	𠄔	1
 xsxi	𣦪	1
 xsxj	𠭀	1
