@@ -12471,8 +12471,8 @@ zrd	將	1
 zrd	𠃔	1
 zrd	𪨔	1
 zrf	绦	1
-zrh	紙	1
 zrh	纸	1
+zrh	紙	1
 zri	綹	1
 zri	绺	1
 zrj	络	1
