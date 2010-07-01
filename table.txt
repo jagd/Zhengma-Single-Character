@@ -55801,8 +55801,8 @@ pszo	䤤	1
 pszq	錥	1
 pszq	𨯤	1
 pszq	𫔼	1
-pszr	銃	1
 pszr	铳	1
+pszr	銃	1
 pszz	鉉	1
 pszz	铉	1
 ptae	锎	1
