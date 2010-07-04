@@ -73085,11 +73085,11 @@ wdwq	𡨪	1
 wdwr	㝱	1
 wdws	㝰	1
 wdwu	𡬍	1
-wdwx	㝕	1
-wdwx	寑	1
-wdwx	寖	1
 wdwx	寝	1
 wdwx	寢	1
+wdwx	寑	1
+wdwx	寖	1
+wdwx	㝕	1
 wdwx	𡨊	1
 wdwx	𡨞	1
 wdwx	𡫺	1
