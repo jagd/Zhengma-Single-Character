@@ -2451,8 +2451,8 @@ erh	芪	1
 eri	𧊮	1
 eri	𫉎	1
 erj	苟	1
-erj	茖	1
 erj	茗	1
+erj	茖	1
 erj	𦯚	1
 erk	荀	1
 erk	𦮂	1
