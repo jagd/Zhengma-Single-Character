@@ -39052,8 +39052,8 @@ kfex	𢻔	1
 kfex	𪴡	1
 kffb	𣋜	1
 kfgl	曘	1
-kfgo	顆	1
 kfgo	颗	1
+kfgo	顆	1
 kfgo	𩓢	1
 kfhb	𣉴	1
 kfix	敤	1
