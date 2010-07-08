@@ -72886,8 +72886,8 @@ wdoj	豁	1
 wdoj	蹇	1
 wdoj	𠹟	1
 wdok	𪧲	1
-wdol	賽	1
 wdol	赛	1
+wdol	賽	1
 wdol	𡫛	1
 wdol	𡺶	1
 wdol	𢄏	1
