@@ -52630,9 +52630,9 @@ oiei	𧘆	1
 oiej	㣨	1
 oiek	㣜	1
 oiek	徣	1
-oiel	㣮	1
-oiel	徝	1
 oiel	循	1
+oiel	徝	1
+oiel	㣮	1
 oiel	𢕀	1
 oiem	𢕴	1
 oien	𢔣	1
