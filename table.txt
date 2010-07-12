@@ -7493,8 +7493,8 @@ pkl	𨩩	1
 pkm	鈔	1
 pkm	钞	1
 pko	釥	1
-pkq	銷	1
 pkq	销	1
+pkq	銷	1
 pkq	𨧹	1
 pkq	𨩋	1
 pkr	錫	1
@@ -14328,8 +14328,8 @@ bdzl	𧴳	1
 bdzm	互	1
 bdzm	𡚬	1
 bdzm	𪶆	1
-bdzn	䰟	1
 bdzn	魂	1
+bdzn	䰟	1
 bdzn	𡓀	1
 bdzo	𠇌	1
 bdzq	𦘼	1
@@ -57728,8 +57728,8 @@ qmee	𤠇	1
 qmee	𤢫	1
 qmef	𤟬	1
 qmej	狜	1
-qmek	猎	1
 qmek	猫	1
+qmek	猎	1
 qmel	峱	1
 qmel	獖	1
 qmel	𤣡	1
