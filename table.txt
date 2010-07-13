@@ -80014,8 +80014,8 @@ zfzj	轡	1
 zfzm	䌁	1
 zfzs	𦁆	1
 zfzw	𢥩	1
-zgaj	綺	1
 zgaj	绮	1
+zgaj	綺	1
 zgbb	𦁩	1
 zgbb	𦆑	1
 zgbm	𦅁	1
