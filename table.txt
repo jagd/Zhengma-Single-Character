@@ -82556,8 +82556,8 @@ zsuy	𣜨	1
 zsvv	乄	1
 zswa	𦂃	1
 zswf	𨋿	1
-zswl	締	1
 zswl	缔	1
+zswl	締	1
 zswl	𠫦	1
 zswl	𣝜	1
 zswm	縴	1
