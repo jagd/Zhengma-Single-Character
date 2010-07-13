@@ -81204,8 +81204,8 @@ zmkl	媪	1
 zmkl	嬪	1
 zmkl	𡞀	1
 zmkl	𡤧	1
-zmkm	㜨	1
 zmkm	妙	1
+zmkm	㜨	1
 zmkm	𡟙	1
 zmko	㛐	1
 zmko	㛹	1
