@@ -12660,8 +12660,8 @@ zze	𥿋	1
 zzg	緣	1
 zzg	缘	1
 zzh	幾	1
-zzi	糾	1
 zzi	纠	1
+zzi	糾	1
 zzi	蚃	1
 zzi	𠄑	1
 zzi	𢆯	1
