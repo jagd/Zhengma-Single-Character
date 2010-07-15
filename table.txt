@@ -12479,9 +12479,9 @@ zrj	络	1
 zrj	絇	1
 zrj	絡	1
 zrj	𥿨	1
+zrk	绚	1
 zrk	絢	1
 zrk	緍	1
-zrk	绚	1
 zrk	𥿻	1
 zrk	𦀆	1
 zrk	𦈏	1
@@ -81558,9 +81558,9 @@ zmrj	姳	1
 zmrj	𡜶	1
 zmrj	𡟔	1
 zmrj	𪦶	1
+zmrk	婚	1
 zmrk	妳	1
 zmrk	姰	1
-zmrk	婚	1
 zmrk	𡜖	1
 zmrk	𡞕	1
 zmrk	𡞢	1
