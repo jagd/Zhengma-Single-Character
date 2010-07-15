@@ -43059,8 +43059,8 @@ llqy	𡴿	1
 llqy	𡺮	1
 llrb	𡻰	1
 llrb	𪩎	1
-llrc	峯	1
 llrc	峰	1
+llrc	峯	1
 llrc	𡷄	1
 llrc	𡻀	1
 llrc	𡻹	1
