@@ -987,9 +987,9 @@ btg	壙	1
 btr	趑	1
 btx	塘	1
 btx	塶	1
+bub	幸	1
 bub	坢	1
 bub	堘	1
-bub	幸	1
 buc	垟	1
 buc	𦍒	1
 bue	垪	1
