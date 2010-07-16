@@ -11713,11 +11713,11 @@ xwz	恳	1
 xxb	驿	1
 xxe	𪜞	1
 xxf	柔	1
-xxg	預	1
 xxg	预	1
+xxg	預	1
 xxi	蝥	1
-xxi	預	1
 xxi	预	1
+xxi	預	1
 xxi	𫙣	1
 xxj	闢	1
 xxl	瞀	1
@@ -77607,8 +77607,8 @@ xshy	𣜽	1
 xsia	𤼸	1
 xsie	𪜞	1
 xsif	𣏗	1
-xsig	預	1
 xsig	预	1
+xsig	預	1
 xsii	蟊	1
 xsii	𧎮	1
 xsij	𥎁	1
