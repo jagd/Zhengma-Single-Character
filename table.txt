@@ -10666,8 +10666,8 @@ vlb	澤	1
 vlb	𣲹	1
 vlc	沮	1
 vlc	𪶥	1
-vld	泂	1
 vld	洞	1
+vld	泂	1
 vld	浻	1
 vld	𣳔	1
 vld	𣶈	1
