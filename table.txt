@@ -7341,8 +7341,8 @@ pej	鈷	1
 pej	钴	1
 pek	错	1
 pek	錯	1
-pel	盾	1
 pel	质	1
+pel	盾	1
 pel	鎮	1
 pen	鑊	1
 pen	镬	1
