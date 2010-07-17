@@ -13418,8 +13418,8 @@ ardp	𣨋	1
 ardp	𣩁	1
 aref	𣨴	1
 arej	㱠	1
-arel	㱵	1
 arel	殖	1
+arel	㱵	1
 areo	𤳓	1
 arep	𣩠	1
 arer	𣩷	1
