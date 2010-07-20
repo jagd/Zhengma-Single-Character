@@ -72446,8 +72446,8 @@ wdal	𧵒	1
 wdal	𪧑	1
 wdam	㝫	1
 wdam	㲰	1
-wdan	宺	1
 wdan	宿	1
+wdan	宺	1
 wdan	𡩛	1
 wdan	𩁔	1
 wdao	㝙	1
