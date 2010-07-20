@@ -41330,8 +41330,8 @@ likk	𢃑	1
 likk	𢃕	1
 likk	𢄷	1
 likk	𢆂	1
-likl	㡦	1
 likl	帽	1
+likl	㡦	1
 likl	矑	1
 likm	㠺	1
 liko	𢄨	1
