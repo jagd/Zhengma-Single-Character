@@ -37319,8 +37319,8 @@ jjss	𠸶	1
 jjte	斝	1
 jjuz	㖾	1
 jjvn	喌	1
-jjvv	吅	1
 jjvv	吕	1
+jjvv	吅	1
 jjwl	𡀉	1
 jjwr	𣜣	1
 jjwx	𫝣	1
