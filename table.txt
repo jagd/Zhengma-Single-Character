@@ -54966,8 +54966,8 @@ pkod	𨦢	1
 pkok	鑤	1
 pkon	鎅	1
 pkoo	𨰛	1
-pkqa	銷	1
 pkqa	销	1
+pkqa	銷	1
 pkro	錫	1
 pkro	鍚	1
 pkro	锡	1
