@@ -81867,8 +81867,8 @@ zmxx	𡜢	1
 zmxx	𡢷	1
 zmxx	𡤕	1
 zmxx	𪥴	1
-zmxy	㐐	1
 zmxy	努	1
+zmxy	㐐	1
 zmxy	嫏	1
 zmxy	孥	1
 zmxy	弩	1
