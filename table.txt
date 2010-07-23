@@ -80072,8 +80072,8 @@ zhba	絰	1
 zhba	绖	1
 zhbi	經	1
 zhbi	𥿮	1
-zhgd	絨	1
 zhgd	绒	1
+zhgd	絨	1
 zhgr	绕	1
 zhhk	𦇢	1
 zhhm	綫	1
