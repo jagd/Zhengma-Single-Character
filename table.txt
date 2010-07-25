@@ -78921,8 +78921,8 @@ ytms	𦐏	1
 ytmy	𨞈	1
 ytnc	𦑠	1
 ytne	𦐷	1
-ytnh	㦻	1
 ytnh	戳	1
+ytnh	㦻	1
 ytnl	𧢇	1
 ytnm	𣯮	1
 ytnn	𩀦	1
