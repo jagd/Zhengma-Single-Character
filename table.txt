@@ -8928,8 +8928,8 @@ scx	诹	1
 scz	䛾	1
 sdi	𧏛	1
 sdq	亵	1
-sds	討	1
 sds	讨	1
+sds	討	1
 sea	譁	1
 seb	詌	1
 seb	𧫠	1
