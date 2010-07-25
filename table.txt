@@ -12497,8 +12497,8 @@ zrt	终	1
 zrt	終	1
 zrv	姚	1
 zrx	绉	1
-zry	絶	1
 zry	绝	1
+zry	絶	1
 zry	𥾉	1
 zrz	鸞	1
 zrz	𦃡	1
