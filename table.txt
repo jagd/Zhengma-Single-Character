@@ -42361,9 +42361,9 @@ lleo	睓	1
 lleo	𡶵	1
 llep	𪩨	1
 lleq	𡼼	1
-ller	㠌	1
-ller	㠤	1
 ller	嵌	1
+ller	㠤	1
+ller	㠌	1
 ller	𡿝	1
 ller	𪂢	1
 lles	㟐	1
