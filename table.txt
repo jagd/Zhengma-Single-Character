@@ -12490,8 +12490,8 @@ zro	䊻	1
 zrr	妣	1
 zrr	纔	1
 zrr	𪟪	1
-zrs	約	1
 zrs	约	1
+zrs	約	1
 zrs	𥿄	1
 zrt	终	1
 zrt	終	1
