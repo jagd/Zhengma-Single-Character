@@ -69429,8 +69429,8 @@ usja	㥉	1
 usjb	懔	1
 usjc	𢥢	1
 usji	𪭐	1
-usjk	㥫	1
 usjk	惊	1
+usjk	㥫	1
 usjl	𢞟	1
 usjm	懍	1
 usjq	𢟚	1
