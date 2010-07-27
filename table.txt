@@ -9795,8 +9795,8 @@ trk	浆	1
 trk	痻	1
 trk	𤶇	1
 trk	𤻼	1
-trl	資	1
 trl	资	1
+trl	資	1
 trm	凝	1
 trn	阎	1
 tro	次	1
