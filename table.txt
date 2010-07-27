@@ -12229,8 +12229,8 @@ zhx	䋌	1
 zhy	练	1
 zhy	絾	1
 zhz	䋐	1
-zhz	純	1
 zhz	纯	1
+zhz	純	1
 zia	㞢	1
 zia	爿	1
 zia	𤕬	1
