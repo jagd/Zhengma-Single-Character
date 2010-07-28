@@ -51243,9 +51243,9 @@ nrky	𠊫	1
 nrlb	𪝁	1
 nrld	𠊇	1
 nrld	𪝁	1
-nrlo	偩	1
-nrlo	貨	1
 nrlo	货	1
+nrlo	貨	1
+nrlo	偩	1
 nrmb	佭	1
 nrmb	𠈞	1
 nrmf	傑	1
