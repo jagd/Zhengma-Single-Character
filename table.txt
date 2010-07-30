@@ -3120,8 +3120,8 @@ foy	枪	1
 foz	松	1
 fpa	栀	1
 fpb	塹	1
-fpd	杉	1
 fpd	析	1
+fpd	杉	1
 fpe	楯	1
 fpf	棌	1
 fpf	椞	1
