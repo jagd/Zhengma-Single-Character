@@ -43721,10 +43721,10 @@ lohi	赋	1
 lohi	賦	1
 lohi	𧸔	1
 lohk	𧸉	1
-lohm	䞃	1
-lohm	戝	1
-lohm	賎	1
 lohm	贱	1
+lohm	賎	1
+lohm	戝	1
+lohm	䞃	1
 lohs	𧴰	1
 lohs	𧶂	1
 lohy	𧵪	1
