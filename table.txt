@@ -43125,8 +43125,8 @@ llrr	𡻴	1
 llrr	𡽀	1
 llrr	𡽙	1
 llrr	𥆢	1
-llrs	㞮	1
 llrs	岁	1
+llrs	㞮	1
 llrs	岻	1
 llrs	巉	1
 llrs	𡿣	1
