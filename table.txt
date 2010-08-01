@@ -14574,8 +14574,8 @@ bilk	盐	1
 bilk	𠞖	1
 bilk	𢧬	1
 bilk	𥁁	1
-bilo	貢	1
 bilo	贡	1
+bilo	貢	1
 bilo	𡎞	1
 bilo	𩏼	1
 bilo	𪩷	1
