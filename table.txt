@@ -76679,8 +76679,8 @@ xifz	𪾶	1
 xigg	㿵	1
 xigk	𠠉	1
 xign	臩	1
-xigo	頗	1
 xigo	颇	1
+xigo	頗	1
 xigo	𩑠	1
 xihe	𢍴	1
 xihs	𥀯	1
