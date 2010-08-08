@@ -9210,8 +9210,8 @@ smr	謻	1
 sms	旒	1
 smw	𧦟	1
 smx	旋	1
-smy	誘	1
 smy	诱	1
+smy	誘	1
 smy	𧧆	1
 smy	𧪢	1
 smz	誨	1
@@ -62514,8 +62514,8 @@ smye	𧨮	1
 smyi	𧦧	1
 smyi	𫎚	1
 smyk	𧭀	1
-smym	誘	1
 smym	诱	1
+smym	誘	1
 smyu	𤍋	1
 smzm	諉	1
 smzm	诿	1
