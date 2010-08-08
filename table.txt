@@ -6659,8 +6659,8 @@ nku	㒒	1
 nku	僕	1
 nkv	㲻	1
 nkv	泉	1
-nkw	償	1
 nkw	迫	1
+nkw	償	1
 nky	廹	1
 nky	舅	1
 nky	𤽀	1
