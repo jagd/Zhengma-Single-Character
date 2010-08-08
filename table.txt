@@ -30397,9 +30397,9 @@ gdol	𧶘	1
 gdom	𣭶	1
 gdon	𡗦	1
 gdon	𡚟	1
-gdoo	㚒	1
-gdoo	夾	1
 gdoo	爽	1
+gdoo	夾	1
+gdoo	㚒	1
 gdoo	𡙁	1
 gdoo	𤕡	1
 gdor	㰰	1
