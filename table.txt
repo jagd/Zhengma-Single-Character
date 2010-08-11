@@ -61251,10 +61251,10 @@ rzkm	𪃐	1
 rzko	𩶚	1
 rzkz	𪅛	1
 rzlj	𪃀	1
-rzll	㠀	1
 rzll	岛	1
 rzll	島	1
 rzll	𡷊	1
+rzll	㠀	1
 rzln	𪇋	1
 rzlo	𩹾	1
 rzlt	𪈳	1
