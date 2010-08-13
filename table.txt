@@ -47741,8 +47741,8 @@ mljk	𥵺	1
 mljp	簓	1
 mljr	𧖵	1
 mlju	𥸠	1
-mlka	笽	1
 mlka	血	1
+mlka	笽	1
 mlkd	䈟	1
 mlkd	𠜄	1
 mlkd	𠟬	1
