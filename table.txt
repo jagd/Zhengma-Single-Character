@@ -5085,8 +5085,8 @@ kih	𤱻	1
 kii	𪰤	1
 kiq	胃	1
 kiq	𤰾	1
-kir	鴨	1
 kir	鸭	1
+kir	鴨	1
 kir	𪾌	1
 kiw	思	1
 kiy	邮	1
@@ -5241,9 +5241,9 @@ krw	遏	1
 kry	昂	1
 kry	曷	1
 krz	匙	1
+krz	鸭	1
 krz	鴨	1
 krz	鶗	1
-krz	鸭	1
 ksb	𣌷	1
 kse	𣅹	1
 kse	𣇛	1
@@ -32846,8 +32846,8 @@ hoqk	匬	1
 hoqx	殴	1
 hoqy	㔲	1
 horo	欧	1
-horz	鴎	1
 horz	鸥	1
+horz	鴎	1
 hosx	𠤮	1
 hotd	𠗁	1
 hoxg	𩒥	1
@@ -39231,8 +39231,8 @@ kibo	𠔱	1
 kibo	𤲍	1
 kibo	𤳉	1
 kibq	𪾉	1
-kibr	鴨	1
 kibr	鸭	1
+kibr	鴨	1
 kibr	𠒛	1
 kibr	𣢗	1
 kibr	𪈦	1
