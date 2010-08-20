@@ -6264,9 +6264,9 @@ mrt	氡	1
 mrw	选	1
 mrx	稳	1
 mry	笣	1
+mrz	鹅	1
 mrz	䉆	1
 mrz	鵝	1
-mrz	鹅	1
 mrz	𩾑	1
 msc	䇠	1
 mse	辞	1
@@ -45716,9 +45716,9 @@ mdhi	䖸	1
 mdhl	箍	1
 mdhm	我	1
 mdhn	𨿍	1
+mdhr	鹅	1
 mdhr	鵝	1
 mdhr	鵞	1
-mdhr	鹅	1
 mdii	𧒎	1
 mdij	𥮠	1
 mdjc	䉗	1
