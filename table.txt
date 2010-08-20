@@ -53670,8 +53670,8 @@ oxmi	餂	1
 oxmi	𫘦	1
 oxmj	𫘗	1
 oxmk	𩚸	1
-oxml	飾	1
 oxml	饰	1
+oxml	飾	1
 oxml	𩝳	1
 oxml	𩟺	1
 oxml	𫘡	1
