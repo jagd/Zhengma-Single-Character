@@ -33067,8 +33067,8 @@ iaib	羋	1
 iaib	芈	1
 iaib	蝆	1
 iaib	𦍋	1
-iaid	卝	1
 iaid	虾	1
+iaid	卝	1
 iail	𥄕	1
 iain	雈	1
 iain	𦤄	1
