@@ -63913,8 +63913,8 @@ symf	𣄉	1
 symf	𧧇	1
 symg	𠅑	1
 symh	𣬵	1
-symi	誕	1
 symi	诞	1
+symi	誕	1
 symi	𧌱	1
 symi	𧐈	1
 symi	𪯮	1
