@@ -6936,8 +6936,8 @@ nyi	伄	1
 nyi	𠇁	1
 nyj	伽	1
 nyj	佋	1
-nym	仂	1
 nym	仍	1
+nym	仂	1
 nyn	佛	1
 nys	仞	1
 nys	仭	1
