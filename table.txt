@@ -37515,8 +37515,8 @@ jlqq	嘣	1
 jlri	噣	1
 jlrj	𠸉	1
 jlro	𡁌	1
-jlrs	哕	1
 jlrs	啰	1
+jlrs	哕	1
 jlry	𦫮	1
 jlrz	鶰	1
 jlrz	𫜱	1
