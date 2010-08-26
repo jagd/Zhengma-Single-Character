@@ -61590,8 +61590,8 @@ segq	𧱏	1
 segs	谳	1
 segx	𧮁	1
 seja	诂	1
-sejc	謹	1
 sejc	谨	1
+sejc	謹	1
 sejc	𧫴	1
 sejj	𨐼	1
 sejm	䜘	1
