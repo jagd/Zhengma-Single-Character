@@ -1971,8 +1971,8 @@ dyi	把	1
 dyi	𢪉	1
 dyj	招	1
 dyj	拁	1
-dym	扐	1
 dym	扔	1
+dym	扐	1
 dyn	拂	1
 dyo	扬	1
 dys	扨	1
@@ -55539,8 +55539,8 @@ pquy	𧳼	1
 pquy	𧴉	1
 pquz	𫏇	1
 pqve	䝥	1
-pqvv	鈅	1
 pqvv	钥	1
+pqvv	鈅	1
 pqwb	𨭏	1
 pqwb	𨭒	1
 pqwf	𧳰	1
