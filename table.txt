@@ -35963,8 +35963,8 @@ jfrl	𪢔	1
 jfry	𠿙	1
 jfrz	𪁣	1
 jfsq	𠵉	1
-jfvv	㕲	1
 jfvv	呆	1
+jfvv	㕲	1
 jfwr	𠶍	1
 jfwz	𠽡	1
 jfxb	𠽌	1
