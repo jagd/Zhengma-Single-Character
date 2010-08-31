@@ -26997,8 +26997,8 @@ fjbl	䚈	1
 fjbl	𧢄	1
 fjbl	𫍧	1
 fjbm	𢿖	1
-fjbp	彯	1
 fjbp	瓢	1
+fjbp	彯	1
 fjbq	飄	1
 fjbq	𩘔	1
 fjbr	歅	1
