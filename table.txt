@@ -82202,8 +82202,8 @@ zrbd	𥾡	1
 zrbj	𦂑	1
 zrbk	縩	1
 zrci	綘	1
-zrcw	縫	1
 zrcw	缝	1
+zrcw	縫	1
 zrez	綯	1
 zrez	绹	1
 zrgm	𦂐	1
