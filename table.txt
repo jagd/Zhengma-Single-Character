@@ -53736,8 +53736,8 @@ oxom	餘	1
 oxom	馀	1
 oxom	𩜉	1
 oxon	𩟑	1
-oxoo	餃	1
 oxoo	饺	1
+oxoo	餃	1
 oxoo	𩛩	1
 oxoo	𩞘	1
 oxoo	𩟅	1
