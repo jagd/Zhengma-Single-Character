@@ -56008,8 +56008,8 @@ pvlk	𤳞	1
 pvll	覶	1
 pvll	𤕊	1
 pvlm	𢿳	1
-pvlr	覓	1
 pvlr	觅	1
+pvlr	覓	1
 pvlr	𧠙	1
 pvlr	𪺺	1
 pvls	辭	1
