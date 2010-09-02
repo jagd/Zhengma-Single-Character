@@ -7668,8 +7668,8 @@ pqf	槃	1
 pqg	磐	1
 pqi	𧳃	1
 pqi	𩗩	1
-pqj	鉛	1
 pqj	铅	1
+pqj	鉛	1
 pqk	𧲥	1
 pql	盤	1
 pqm	搫	1
@@ -7718,9 +7718,9 @@ prt	钧	1
 prv	鉹	1
 prx	錚	1
 prx	铮	1
-pry	䤝	1
-pry	鉋	1
 pry	铇	1
+pry	鉋	1
+pry	䤝	1
 prz	钩	1
 prz	鵭	1
 psc	鉒	1
