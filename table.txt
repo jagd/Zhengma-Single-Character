@@ -37503,8 +37503,8 @@ jlnl	𡄴	1
 jlnz	𪔈	1
 jloa	𠼜	1
 jlob	𠳥	1
-jlod	吶	1
 jlod	呐	1
+jlod	吶	1
 jlod	呙	1
 jlok	剐	1
 jloo	𪠿	1
