@@ -6592,8 +6592,8 @@ nid	仆	1
 nif	集	1
 nih	俿	1
 nii	𠇈	1
-nij	佔	1
 nij	售	1
+nij	佔	1
 nik	倬	1
 nil	侦	1
 nil	偵	1
