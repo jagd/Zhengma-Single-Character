@@ -339,8 +339,8 @@ rr	比	1
 rs	夕	1
 rx	争	1
 ry	包	1
-rz	鳥	1
 rz	鸟	1
+rz	鳥	1
 sa	言	1
 sb	讲	1
 sc	主	1
