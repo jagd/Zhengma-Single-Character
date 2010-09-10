@@ -2635,8 +2635,8 @@ eyh	苠	1
 eyi	䒡	1
 eyi	靶	1
 eyi	𦬎	1
-eyj	苕	1
 eyj	茄	1
+eyj	苕	1
 eyk	荪	1
 eym	艻	1
 eym	艿	1
@@ -65485,10 +65485,10 @@ tirb	㾚	1
 tirb	𠤖	1
 tirc	𤤘	1
 tird	将	1
-tirf	㾹	1
+tirf	酱	1
 tirf	桨	1
 tirf	軰	1
-tirf	酱	1
+tirf	㾹	1
 tirg	奖	1
 tiri	𧉥	1
 tirk	浆	1
