@@ -29489,8 +29489,8 @@ fvru	𣗮	1
 fvru	𩆵	1
 fvrw	𪛈	1
 fvrx	𩃁	1
-fvry	雹	1
 fvry	雾	1
+fvry	雹	1
 fvry	霧	1
 fvry	𠣉	1
 fvrz	𩃊	1
