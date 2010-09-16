@@ -53829,8 +53829,8 @@ oxrt	馋	1
 oxrt	𩝎	1
 oxru	𩛺	1
 oxru	𩜡	1
-oxry	飽	1
 oxry	饱	1
+oxry	飽	1
 oxry	𩜌	1
 oxry	𩜟	1
 oxrz	𩚘	1
