@@ -7676,8 +7676,8 @@ pqm	搫	1
 pqq	錋	1
 pqq	𧲩	1
 pqs	釻	1
-pqv	鈅	1
 pqv	钥	1
+pqv	鈅	1
 pqx	般	1
 pqx	鈠	1
 pqx	𨱁	1
