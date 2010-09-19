@@ -65485,7 +65485,7 @@ tirb	㾚	1
 tirb	𠤖	1
 tirc	𤤘	1
 tird	将	1
-tirf	酱	1
+tirf	酱	2
 tirf	桨	1
 tirf	軰	1
 tirf	㾹	1
