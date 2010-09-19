@@ -71682,8 +71682,8 @@ vszq	瀛	1
 vszq	𣼠	1
 vszq	𣽱	1
 vszq	𤄞	1
-vszr	㳘	1
 vszr	滚	1
+vszr	㳘	1
 vszr	𣳌	1
 vszr	𣴹	1
 vszr	𣶑	1
