@@ -4345,8 +4345,8 @@ jai	叮	1
 jaj	呵	1
 jak	哑	1
 jak	哽	1
+jal	贵	2
 jal	貴	1
-jal	贵	1
 jan	嘎	1
 jao	躎	1
 jar	咧	1
@@ -6936,7 +6936,7 @@ nyi	伄	1
 nyi	𠇁	1
 nyj	伽	1
 nyj	佋	1
-nym	仍	1
+nym	仍	2
 nym	仂	1
 nyn	佛	1
 nys	仞	1
