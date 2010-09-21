@@ -24723,9 +24723,9 @@ eskg	𧄲	1
 eskh	𦺿	1
 eskh	𧄹	1
 esko	𦮞	1
-eskr	䔔	1
-eskr	蓑	1
 eskr	蔼	1
+eskr	蓑	1
+eskr	䔔	1
 eskr	藹	1
 eskr	𫊩	1
 eskw	薏	1
