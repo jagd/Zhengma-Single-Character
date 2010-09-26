@@ -1971,7 +1971,7 @@ dyi	把	1
 dyi	𢪉	1
 dyj	招	1
 dyj	拁	1
-dym	扔	1
+dym	扔	2
 dym	扐	1
 dyn	拂	1
 dyo	扬	1
