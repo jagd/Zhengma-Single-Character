@@ -77117,8 +77117,8 @@ xmka	𦘧	1
 xmkc	屝	1
 xmkf	𡱼	1
 xmkg	𡱘	1
-xmki	屇	1
 xmki	届	1
+xmki	屇	1
 xmkk	㞠	1
 xmkk	屪	1
 xmkk	𡲘	1
