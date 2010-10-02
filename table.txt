@@ -46842,8 +46842,8 @@ mfsz	𥡍	1
 mfte	科	1
 mfte	𥡿	1
 mftg	穬	1
-mftr	䅆	1
 mftr	乘	1
+mftr	䅆	1
 mftu	穮	1
 mfua	𥞉	1
 mfub	秚	1
