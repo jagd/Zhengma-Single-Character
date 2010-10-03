@@ -82079,8 +82079,8 @@ zoar	𩿌	1
 zobd	𦃀	1
 zobg	𦈂	1
 zobw	𦁇	1
-zobz	絵	1
 zobz	绘	1
+zobz	絵	1
 zobz	𥿐	1
 zobz	𦁌	1
 zoda	兦	1
