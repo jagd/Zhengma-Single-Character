@@ -73686,9 +73686,9 @@ wmys	𨐳	1
 wmyu	焈	1
 wmyu	𢩂	1
 wmyu	𦢳	1
-wmyy	戺	1
 wmyy	扇	1
 wmyy	翩	1
+wmyy	戺	1
 wmyy	𢨪	1
 wmzb	𨓱	1
 wmzj	𨖎	1
