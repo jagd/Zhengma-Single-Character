@@ -56333,8 +56333,8 @@ pxbq	𨩷	1
 pxby	键	1
 pxby	鍵	1
 pxcm	𨬒	1
-pxed	鈕	1
 pxed	钮	1
+pxed	鈕	1
 pxeh	𨫀	1
 pxej	鋸	1
 pxej	锯	1
