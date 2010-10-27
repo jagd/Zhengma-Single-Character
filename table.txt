@@ -8262,7 +8262,7 @@ qtg	𦢎	1
 qtn	腑	1
 qtu	臁	1
 qtx	膔	1
-qub	胖	1
+qub	胖	2
 qub	塍	1
 quc	羘	1
 que	胼	1
