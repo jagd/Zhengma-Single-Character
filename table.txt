@@ -8937,10 +8937,10 @@ sec	諆	1
 sed	计	1
 sed	計	1
 see	諽	1
-sef	諜	1
-sef	謀	1
 sef	谋	1
 sef	谍	1
+sef	諜	1
+sef	謀	1
 sef	𣓀	1
 sef	𧩜	1
 sef	𧬗	1
@@ -61686,9 +61686,9 @@ seys	辦	1
 seys	辧	1
 seys	𨐰	1
 seyt	𨐪	1
+sezf	谍	1
 sezf	䜓	1
 sezf	諜	1
-sezf	谍	1
 sezi	𧮚	1
 sezm	𨐎	1
 sezo	𨐮	1
