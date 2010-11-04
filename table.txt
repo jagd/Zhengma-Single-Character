@@ -64158,8 +64158,8 @@ sznq	𠙰	1
 sznq	𦡚	1
 sznr	𪇉	1
 szny	𠡤	1
-szod	㐪	1
 szod	亥	1
+szod	㐪	1
 szog	頦	1
 szog	颏	1
 szok	刻	1
