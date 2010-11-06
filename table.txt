@@ -5253,9 +5253,9 @@ ksh	𣌪	1
 ksi	曨	1
 ksj	影	1
 ksj	晾	1
-ksk	㫤	1
-ksk	昹	1
 ksk	暗	1
+ksk	昹	1
+ksk	㫤	1
 kso	旻	1
 kso	旼	1
 kso	昗	1
