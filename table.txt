@@ -6657,8 +6657,8 @@ nkq	俏	1
 nkr	偈	1
 nku	㒒	1
 nku	僕	1
-nkv	㲻	1
 nkv	泉	1
+nkv	㲻	1
 nkw	迫	1
 nkw	償	1
 nky	廹	1
@@ -70254,8 +70254,8 @@ vfan	𪷓	1
 vfau	𣻔	1
 vfbb	溎	1
 vfbd	㵱	1
-vfbk	渿	1
 vfbk	漂	1
+vfbk	渿	1
 vfbk	𣿖	1
 vfbp	𤃛	1
 vfbq	𤅜	1
