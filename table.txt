@@ -80730,8 +80730,8 @@ zmaz	𪥿	1
 zmaz	𪦌	1
 zmaz	𪦵	1
 zmba	纴	1
-zmbb	㛻	1
 zmbb	娃	1
+zmbb	㛻	1
 zmbb	娾	1
 zmbd	𡣋	1
 zmbd	𦅯	1
