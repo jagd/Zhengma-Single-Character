@@ -8714,8 +8714,8 @@ rrr	𩵏	1
 rrs	魡	1
 rrs	𩶅	1
 rrw	毖	1
-rry	鮑	1
 rry	鲍	1
+rry	鮑	1
 rry	𠨐	1
 rrz	鷠	1
 rsa	夊	1
@@ -60285,8 +60285,8 @@ rrxk	𨽻	1
 rrxk	𫖚	1
 rrxl	𥏚	1
 rrxu	𥻊	1
-rrya	鮑	1
 rrya	鲍	1
+rrya	鮑	1
 rryi	𫚞	1
 rryk	鰡	1
 rryk	𩺜	1

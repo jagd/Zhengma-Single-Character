@@ -8,8 +8,8 @@ Zhengma.txt.in: Zhengma_scim_Teil1 ../table.txt Zhengma_scim_Teil2
 	cat $^ > $@
 
 install: zm.bin
-	cp zm.bin /usr/share/scim/tables/zm.bin
-	# cp zm.bin ~/.scim/user-tables/zm.bin
+	# cp zm.bin /usr/share/scim/tables/zm.bin
+	cp zm.bin ~/.scim/user-tables/zm.bin
 
 clean:
 	-rm zm.bin Zhengma.txt.in
