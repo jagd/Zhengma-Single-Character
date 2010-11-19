@@ -5954,8 +5954,8 @@ mdx	箨	1
 mdy	筢	1
 mdy	𫒗	1
 mea	簧	1
-meb	䇞	1
 meb	垂	1
+meb	䇞	1
 meb	簊	1
 meb	𡉼	1
 mec	箕	1
