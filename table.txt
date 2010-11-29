@@ -4619,8 +4619,8 @@ jkz	黾	1
 jkz	𠼱	1
 jla	嗤	1
 jla	圜	1
-jlb	呥	1
 jlb	嘿	1
+jlb	呥	1
 jlc	咀	1
 jld	哃	1
 jld	𠰩	1
@@ -37445,8 +37445,8 @@ jlbd	𠯍	1
 jlbd	𠱡	1
 jlbf	𠿽	1
 jlbj	啁	1
-jlbu	㘁	1
 jlbu	嘿	1
+jlbu	㘁	1
 jlbx	𡁩	1
 jlbz	𧶊	1
 jlcm	𠼌	1
