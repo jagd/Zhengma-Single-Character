@@ -9,6 +9,7 @@ Zhengma.txt.in: Zhengma_scim_Teil1 ../table.txt Zhengma_scim_Teil2
 
 install: zm.bin
 	# cp zm.bin /usr/share/scim/tables/zm.bin
+	mkdir -p ~/.scim/user-tables/
 	cp zm.bin ~/.scim/user-tables/zm.bin
 
 clean:
