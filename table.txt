@@ -7207,8 +7207,8 @@ oxi	蝕	1
 oxj	衛	1
 oxk	徲	1
 oxk	𩚣	1
-oxm	餓	1
 oxm	饿	1
+oxm	餓	1
 oxm	𠔅	1
 oxm	𠔆	1
 oxo	很	1
@@ -53661,10 +53661,10 @@ oxmg	飫	1
 oxmg	饫	1
 oxmg	𩜈	1
 oxmg	𩟌	1
-oxmh	飥	1
-oxmh	餓	1
-oxmh	饦	1
 oxmh	饿	1
+oxmh	饦	1
+oxmh	餓	1
+oxmh	飥	1
 oxmh	𩚊	1
 oxmi	飵	1
 oxmi	餂	1
