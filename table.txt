@@ -27094,8 +27094,8 @@ fjki	𪘼	1
 fjkk	𣝭	1
 fjkl	𢃴	1
 fjkm	揧	1
-fjkr	䱫	1
 fjkr	覆	1
+fjkr	䱫	1
 fjku	𣛫	1
 fjku	𥻌	1
 fjkv	𣳳	1
