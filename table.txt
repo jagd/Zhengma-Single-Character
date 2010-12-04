@@ -56776,7 +56776,7 @@ pywm	舮	1
 pywq	䑷	1
 pywr	舵	1
 pyws	艕	1
-pyxb	键	1
+pyxb	键	2
 pyxb	鍵	1
 pyxb	𦨱	1
 pyxb	𦨿	1
