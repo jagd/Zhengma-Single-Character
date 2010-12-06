@@ -20524,9 +20524,9 @@ doym	㧳	1
 doym	𢯌	1
 doyw	𢚅	1
 doyw	𢮈	1
+doyy	抢	1
 doyy	㨣	1
 doyy	㩉	1
-doyy	抢	1
 dozr	𢬁	1
 dozr	𢶖	1
 dozs	𢪌	1
