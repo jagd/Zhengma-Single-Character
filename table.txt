@@ -7086,8 +7086,8 @@ ome	御	1
 omf	余	1
 omg	飫	1
 omg	饫	1
-omh	餓	1
 omh	饿	1
+omh	餓	1
 omi	舍	1
 omk	衝	1
 oml	飾	1
