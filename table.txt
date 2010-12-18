@@ -11276,9 +11276,9 @@ wni	雇	1
 wnj	窗	1
 wnj	逈	1
 wnk	迫	1
-wnr	寫	1
 wnr	窗	1
 wnr	鹤	1
+wnr	寫	1
 wns	邀	1
 wnu	襖	1
 wnw	邊	1
@@ -75684,9 +75684,9 @@ wwmj	𨖄	1
 wwmn	𩙵	1
 wwmy	𠖛	1
 wwni	隺	1
+wwnr	鹤	1
 wwnr	冟	1
 wwnr	鶴	1
-wwnr	鹤	1
 wwnr	𠕿	1
 wwnr	𣤇	1
 wwnr	𫜕	1
