@@ -9471,8 +9471,8 @@ sxy	郎	1
 sya	詞	1
 sya	词	1
 sya	𧦒	1
-sye	訊	1
 sye	讯	1
+sye	訊	1
 syh	氓	1
 syi	訑	1
 syi	訠	1
@@ -19934,8 +19934,8 @@ dguo	拻	1
 dguq	𢰒	1
 dgvr	𢮉	1
 dgvv	拓	1
-dgxs	抜	1
 dgxs	拔	1
+dgxs	抜	1
 dgym	拋	1
 dgym	𢫉	1
 dgyy	扼	1
@@ -63828,8 +63828,8 @@ sych	𪰓	1
 sycr	𪗈	1
 sycz	𪯴	1
 syec	𣄃	1
-syed	訊	1
 syed	讯	1
+syed	訊	1
 syeo	譔	1
 syeo	𣄗	1
 syeo	𫎑	1
