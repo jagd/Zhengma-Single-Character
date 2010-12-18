@@ -7885,8 +7885,8 @@ pyj	鉊	1
 pyj	鉫	1
 pyk	鐊	1
 pyk	𦨙	1
-pyl	錳	1
 pyl	锰	1
+pyl	錳	1
 pyl	𦨧	1
 pym	艇	1
 pym	釛	1
@@ -7896,10 +7896,10 @@ pyn	镄	1
 pys	釰	1
 pys	釼	1
 pyt	艔	1
-pyv	釕	1
 pyv	钌	1
+pyv	釕	1
+pyx	键	2
 pyx	鍵	1
-pyx	键	1
 pyy	䑠	1
 pyy	郍	1
 pyy	𨥈	1
@@ -51244,7 +51244,7 @@ nrky	𠊫	1
 nrlb	𪝁	1
 nrld	𠊇	1
 nrld	𪝁	1
-nrlo	货	1
+nrlo	货	2
 nrlo	貨	1
 nrlo	偩	1
 nrmb	佭	1
@@ -54062,8 +54062,8 @@ ozyy	𨜺	1
 ozyz	𠃽	1
 ozzi	𠚅	1
 ozzm	𢼠	1
-paaa	釒	1
 paaa	钅	1
+paaa	釒	1
 paae	銒	1
 paaj	鎶	1
 pacm	𨬒	1
