@@ -4763,8 +4763,8 @@ jrf	嘄	1
 jrf	𠱟	1
 jrf	𡂢	1
 jrg	跪	1
-jrj	呴	1
 jrj	咯	1
+jrj	呴	1
 jrj	𠱷	1
 jrj	𠳂	1
 jrk	㖧	1
