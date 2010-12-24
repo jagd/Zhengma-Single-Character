@@ -55087,8 +55087,8 @@ pmce	𦗾	1
 pmcu	𨯹	1
 pmea	釺	1
 pmea	钎	1
-pmeb	錘	1
 pmeb	锤	1
+pmeb	錘	1
 pmed	𫓋	1
 pmee	𨪻	1
 pmej	𨮱	1
