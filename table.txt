@@ -68865,9 +68865,9 @@ uorm	𤌅	1
 uorm	𤌠	1
 uorm	𤐪	1
 uorm	𤒑	1
-uorn	㸄	1
 uorn	焰	1
 uorn	煯	1
+uorn	㸄	1
 uorn	爓	1
 uorn	𤏭	1
 uoro	炊	1
