@@ -65500,7 +65500,7 @@ tirm	𦨆	1
 tiro	𩚾	1
 tirp	𠤢	1
 tirq	背	1
-tirr	北	1
+tirr	北	2
 tirr	疵	1
 tirr	兠	1
 tirr	𣬏	1
