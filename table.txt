@@ -62997,8 +62997,8 @@ ssbs	𪤢	1
 sser	譲	1
 sser	讓	1
 ssfl	𧭼	1
-ssjk	諒	1
 ssjk	谅	1
+ssjk	諒	1
 ssjl	謞	1
 ssjr	𧭚	1
 ssjy	諄	1
