@@ -29849,8 +29849,8 @@ fxjg	櫲	1
 fxjj	櫚	1
 fxjm	椲	1
 fxjs	檘	1
-fxju	㮭	1
 fxju	橙	1
+fxju	㮭	1
 fxju	𣜘	1
 fxju	𪸋	1
 fxka	櫭	1
