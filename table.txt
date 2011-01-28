@@ -30324,6 +30324,7 @@ gdkz	奄	1
 gdkz	𡘤	1
 gdkz	𪥖	1
 gdlc	㚗	1
+gdlc	𪟵	1
 gdld	冇	1
 gdld	𠕇	1
 gdld	𡗚	1
