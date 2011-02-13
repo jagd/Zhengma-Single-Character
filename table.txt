@@ -38971,8 +38971,8 @@ kdwl	帰	1
 kdxb	坚	1
 kdxb	归	1
 kdxi	𣈓	1
-kdxl	䝨	1
 kdxl	贤	1
+kdxl	䝨	1
 kdxl	𪾹	1
 kdxq	肾	1
 kdxs	竖	1
