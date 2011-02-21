@@ -46314,9 +46314,9 @@ mfke	𥢔	1
 mfke	𥴙	1
 mfke	𩡝	1
 mfke	𪏽	1
-mfkf	䉓	1
 mfkf	梨	1
 mfkf	稞	1
+mfkf	䉓	1
 mfkf	𥣊	1
 mfkf	𩠽	1
 mfkg	䫝	1
