@@ -2265,8 +2265,8 @@ eko	黄	1
 eko	䒕	1
 eko	黃	1
 ekp	斮	1
-ekq	莦	1
 ekq	萌	1
+ekq	莦	1
 ekq	𦳢	1
 ekr	葛	1
 eku	慕	1
