@@ -2255,9 +2255,9 @@ ekg	莫	1
 ekh	葨	1
 eki	苗	1
 eki	𧍣	1
-ekk	䓠	1
 ekk	曹	1
 ekk	菖	1
+ekk	䓠	1
 ekl	萺	1
 ekm	䒚	1
 ekm	蓝	1
