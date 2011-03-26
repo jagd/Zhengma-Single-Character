@@ -81997,8 +81997,8 @@ zmzw	㜻	1
 zmzw	嬨	1
 zmzx	𠬳	1
 zmzx	𡜏	1
-zmzy	䋦	1
 zmzy	姆	1
+zmzy	䋦	1
 zmzy	𠠷	1
 zmzy	𡛙	1
 zmzy	𡝏	1
