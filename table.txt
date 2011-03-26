@@ -7010,8 +7010,8 @@ odz	亾	1
 oee	饙	1
 oej	饉	1
 oej	馕	1
-oek	饃	1
 oek	馍	1
+oek	饃	1
 oel	德	1
 oeo	衖	1
 oeq	馓	1
@@ -53590,13 +53590,13 @@ oxka	饘	1
 oxka	馇	1
 oxka	𩟶	1
 oxka	𫘸	1
-oxkb	䭚	1
 oxkb	䭪	1
+oxkb	䭚	1
 oxkb	𩞯	1
-oxkf	餜	1
 oxkf	馃	1
-oxkg	饃	1
+oxkf	餜	1
 oxkg	馍	1
+oxkg	饃	1
 oxkg	𩟊	1
 oxkh	餵	1
 oxkh	𩞡	1
