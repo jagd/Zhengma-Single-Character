@@ -55181,8 +55181,8 @@ pmzy	鋂	1
 pnal	𨫅	1
 pnaz	𨩤	1
 pnaz	𨮁	1
-pncq	鍛	1
 pncq	锻	1
+pncq	鍛	1
 pnda	釧	1
 pnda	钏	1
 pnds	鉜	1
@@ -69238,8 +69238,8 @@ uoyn	熠	1
 uoyn	燿	1
 uoyn	𤒽	1
 uoyn	𤓛	1
-uoyo	炀	1
 uoyo	炼	1
+uoyo	炀	1
 uoyq	熁	1
 uoyq	𤏋	1
 uoys	㽊	1
