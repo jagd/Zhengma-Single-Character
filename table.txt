@@ -25367,8 +25367,8 @@ exbu	𦼘	1
 exbx	𦵥	1
 exby	𫉅	1
 excu	𦻛	1
-exds	䒭	1
 exds	荨	1
+exds	䒭	1
 exdw	藯	1
 exej	𦱅	1
 exex	𦼽	1
