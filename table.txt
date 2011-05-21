@@ -46442,8 +46442,8 @@ mflb	稱	1
 mflb	𥠾	1
 mflb	𥵡	1
 mflc	租	1
-mfld	秱	1
 mfld	策	1
+mfld	秱	1
 mfld	𥞖	1
 mflg	秧	1
 mflg	𥠄	1
