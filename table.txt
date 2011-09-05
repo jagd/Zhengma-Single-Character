@@ -53804,9 +53804,9 @@ oxrk	𩜗	1
 oxrk	𩝙	1
 oxrl	饡	1
 oxrm	𩞻	1
-oxrn	䭣	1
-oxrn	餡	1
 oxrn	馅	1
+oxrn	餡	1
+oxrn	䭣	1
 oxro	飮	1
 oxro	飲	1
 oxro	餳	1
