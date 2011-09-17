@@ -43269,8 +43269,8 @@ llvv	䀠	1
 llwa	嵉	1
 llwa	𡹂	1
 llwa	𡺣	1
-llwb	崆	1
 llwb	崇	1
+llwb	崆	1
 llwb	瞾	1
 llwb	𡸶	1
 llwb	𡹝	1
