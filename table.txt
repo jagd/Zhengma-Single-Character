@@ -7738,8 +7738,8 @@ psk	镜	1
 psk	𨥭	1
 psl	鈰	1
 psl	铈	1
-psm	鏟	1
 psm	铲	1
+psm	鏟	1
 pso	鈫	1
 psq	航	1
 psq	𤫮	1
