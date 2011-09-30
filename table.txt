@@ -5173,8 +5173,8 @@ knc	𣈷	1
 knd	𣅕	1
 knd	𣉦	1
 knf	暞	1
-kni	㫿	1
 kni	雀	1
+kni	㫿	1
 knj	晌	1
 knj	晑	1
 knj	𣉨	1
