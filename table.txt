@@ -46623,9 +46623,9 @@ mfoj	穃	1
 mfoj	𥢑	1
 mfoj	𧯄	1
 mfoj	𫎽	1
-mfok	㴝	1
-mfok	黍	1
 mfok	黎	1
+mfok	黍	1
+mfok	㴝	1
 mfok	𥟖	1
 mfok	𥡁	1
 mfok	𥣥	1
