@@ -64825,9 +64825,9 @@ tgfk	靡	1
 tgfk	𠞥	1
 tgfk	𪎗	1
 tgfk	𪎟	1
+tgfl	廂	1
 tgfl	㢀	1
 tgfl	䯢	1
-tgfl	廂	1
 tgfl	𡻤	1
 tgfl	𥂓	1
 tgfl	𥉵	1
