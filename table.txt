@@ -7324,9 +7324,9 @@ pdv	銶	1
 pdw	近	1
 pdy	邤	1
 pea	鏵	1
-peb	䥓	1
-peb	鉗	1
 peb	钳	1
+peb	鉗	1
+peb	䥓	1
 pec	錤	1
 pec	𫔷	1
 ped	针	1
