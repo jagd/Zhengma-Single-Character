@@ -31052,8 +31052,8 @@ ggts	𣃞	1
 ggua	𠩽	1
 ggub	㕓	1
 ggub	𠪉	1
-ggud	㕑	1
 ggud	厨	1
+ggud	㕑	1
 ggue	𪠉	1
 gguf	𠩕	1
 gguk	㓹	1
