@@ -34697,8 +34697,8 @@ ioor	𪗣	1
 ioor	𪘑	1
 ioor	𪘵	1
 ioos	蚥	1
-ioow	齡	1
 ioow	龄	1
+ioow	齡	1
 ioow	𪙋	1
 iooz	𪙷	1
 iopd	齗	1
