@@ -42031,8 +42031,8 @@ lksz	𪑗	1
 lkte	斣	1
 lktg	黩	1
 lktx	䍡	1
-lkub	䵭	1
 lkub	墨	1
+lkub	䵭	1
 lkub	𪐢	1
 lkuc	瞨	1
 lkuc	𪒿	1
