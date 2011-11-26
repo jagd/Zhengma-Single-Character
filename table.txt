@@ -46156,9 +46156,9 @@ mfgg	𥢠	1
 mfgi	𥝣	1
 mfgj	𥞶	1
 mfgj	𪐌	1
-mfgl	嵆	1
-mfgl	嵇	1
 mfgl	稀	1
+mfgl	嵇	1
+mfgl	嵆	1
 mfgl	𥞎	1
 mfgl	𥞗	1
 mfgm	𥠍	1
