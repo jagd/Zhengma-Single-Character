@@ -60933,9 +60933,9 @@ rygs	𠣥	1
 rygu	𠣮	1
 ryhd	𫚜	1
 ryhr	𠣹	1
-ryia	䰾	1
 ryia	色	1
 ryia	鲃	1
+ryia	䰾	1
 ryii	𠣏	1
 ryii	𧍀	1
 ryil	𠣠	1
