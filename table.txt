@@ -12215,8 +12215,8 @@ zha	缄	1
 zhb	絰	1
 zhb	绖	1
 zhf	𥿴	1
-zhg	絨	1
 zhg	绕	1
+zhg	絨	1
 zhh	𦄤	1
 zhj	嫗	1
 zhm	线	1
@@ -52128,11 +52128,11 @@ odjn	𩀞	1
 odjo	㑒	1
 odjo	𠈏	1
 odjq	𦚶	1
-odjr	㖋	1
+odjr	鸽	1
 odjr	欱	1
 odjr	鴿	1
+odjr	㖋	1
 odjr	鶬	1
-odjr	鸽	1
 odjr	𠌑	1
 odjr	𣢺	1
 odjr	𪁟	1
