@@ -8,7 +8,8 @@ Zhengma.txt.in: Zhengma_fcitx_HEAD ../table.txt
 
 install: Zhengma.mb zm.conf
 	# cp $^ /usr/share/fcitx/data/table
-	cp $^ /usr/share/fcitx/table/
+	# cp $^ /usr/share/fcitx/table/
+	cp $^ ~/.config/fcitx/table
 	# cp $< ~/.fcitx/
 
 clean:
