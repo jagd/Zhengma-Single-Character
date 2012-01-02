@@ -78252,6 +78252,7 @@ ydld	𠱛	1
 ydld	𤰄	1
 ydlk	𥁀	1
 ydll	𡴻	1
+ydmi	虱	1
 ydmo	𠞠	1
 ydmy	𠚮	1
 ydok	𠛂	1
