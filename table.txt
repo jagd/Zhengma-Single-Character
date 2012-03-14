@@ -57026,6 +57026,7 @@ qdll	𠘳	1
 qdlo	飓	1
 qdlp	䥚	1
 qdme	𠘴	1
+qdmi	風	1
 qdmi	𠙬	1
 qdmz	𠙄	1
 qdmz	𫘃	1
