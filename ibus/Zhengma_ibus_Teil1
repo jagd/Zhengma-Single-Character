@@ -19,7 +19,7 @@ NAME = ZhengMa
 ### Description
 DESCRIPTION = 郑码
 
-### The local names of this table 
+### The local names of this table
 NAME.zh_CN = 郑码
 NAME.zh_HK = 鄭碼
 NAME.zh_TW = 鄭碼
@@ -38,6 +38,8 @@ STATUS_PROMPT = CN
 VALID_INPUT_CHARS = abcdefghijklmnopqrstuvwxyz
 
 MAX_KEY_LENGTH = 4
+
+AUTO_COMMIT = FALSE
 
 ### Keyboard Layout
 LAYOUT = de
