@@ -4,7 +4,7 @@ Zhengma.db: Zhengma.txt.in
 
 Zhengma.txt.in: Zhengma_ibus_Teil1 ../table.txt Zhengma_ibus_Teil2
 	cat Zhengma_ibus_Teil1 >  $@
-	awk 'BEGIN{OFS="\t"}/^\w/{if($$1!=old_key){old_key=$$1; freq=0;} freq+=1; print($$1,$$2,freq);}' ../table.txt >> $@
+	awk 'BEGIN{OFS="\t";freq=100}/^\w/{if($$1!=old_key){old_key=$$1; freq=100;} freq-=1; print($$1,$$2,freq);}' ../table.txt >> $@
 	cat Zhengma_ibus_Teil2 >> $@
 
 install: Zhengma.db
