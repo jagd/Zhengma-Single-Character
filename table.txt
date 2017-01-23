@@ -27760,8 +27760,8 @@ fkro	𣓾	1
 fkro	𨋊	1
 fkrq	𣫦	1
 fkrq	𨌖	1
-fkrr	䡔	1
 fkrr	棍	1
+fkrr	䡔	1
 fkrr	輥	1
 fkrr	𨎭	1
 fkrr	𨎱	1
