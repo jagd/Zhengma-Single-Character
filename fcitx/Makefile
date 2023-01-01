@@ -7,10 +7,8 @@ Zhengma.txt.in: Zhengma_fcitx_HEAD ../table.txt
 	sed -e 's/\([^ \t]\+\)\s\+\([^ \t]\+\)\s*.*/\1\t\2/' ../table.txt >> $@
 
 install: zm.mb zm.conf
-	# cp $^ /usr/share/fcitx/data/table
-	cp $^ /usr/share/fcitx/table/
-	# cp $^ ~/.config/fcitx/table
-	# cp $< ~/.fcitx/
+	# cp $^ /usr/share/fcitx/table/
+	mkdir -p ~/.config/fcitx/table ; cp $^ ~/.config/fcitx/table/
 
 clean:
 	-rm Zhengma.txt.in zm.mb
